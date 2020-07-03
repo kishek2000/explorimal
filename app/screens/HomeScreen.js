@@ -24,7 +24,7 @@ export function HomeScreen({ navigation }) {
         <Button
           title="Schedules"
           onPress={() => navigation.navigate("Schedule")}
-          color="#333333"
+          color="#7c0003"
         />
       </View>
 

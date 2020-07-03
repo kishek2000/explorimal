@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View } from "react-native";
-import { styles } from "../syles/Styles";
+import { styles } from "../styles/Styles";
 
 export function LoginScreen({ navigation }) {
   return (
